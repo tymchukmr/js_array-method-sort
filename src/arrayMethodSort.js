@@ -5,7 +5,7 @@
  */
 function applyCustomSort() {
   [].__proto__.sort2 = function(compareFunction) {
-    // write code herem
+    // write code hereff
   };
 }
 
